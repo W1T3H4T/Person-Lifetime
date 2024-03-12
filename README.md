@@ -28,9 +28,7 @@ The `Person` class in C++ represents an individual with basic actions and a rand
 
    ```cpp
 #include "Person.h"
-/* 
-...
-*/
+
    int main() {
        // Example: Create a person with a specific time of birth (Unix epoch value)
        Person person(1615478400);
